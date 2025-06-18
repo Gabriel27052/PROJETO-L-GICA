@@ -1,0 +1,17 @@
+quando usuário entra crie uma caixa chamada senha
+
+
+
+
+leia a senha
+se senha  < 8 
+ escreva- senha precisa ter no mínimo 8 caracteres;
+.
+se senha não tiver letras maiúsculas
+ escreva-senha precisa ter letras maiúsculas e minúsculas
+.
+se senha não tiver números
+ escreva-senha precisa ter números
+.
+se senha não tiver caracteres especiais
+ escreva-senha precisa ter caracteres especiais
